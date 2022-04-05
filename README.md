@@ -14,11 +14,10 @@ We have built an investment strategy builder which enables the traders to build 
 
 
 ## Demo
-Working vedio of our project
+Working video of our project
 
 https://www.youtube.com/watch?v=RGussaf8E4Y
-
-
+https://youtu.be/IYpTE8iA_GY
 
 
 ## Tech Stack and Concepts Used
