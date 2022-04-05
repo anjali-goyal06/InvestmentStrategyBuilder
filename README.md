@@ -18,9 +18,7 @@ Working vedio of our project
 
 https://www.youtube.com/watch?v=RGussaf8E4Y
 
-![Video1](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/v1.mp4)
-![Video2](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/v2.mp4)
-![Video1](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/v3.mp4)
+
 
 
 ## Tech Stack and Concepts Used
