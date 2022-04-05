@@ -16,7 +16,11 @@ We have built an investment strategy builder which enables the traders to build 
 ## Demo
 Working vedio of our project
 
-![Logo](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/logo.png)
+![Vedio1](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/v1.mp4)
+![Vedio2](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/v2.mp4)
+![Vedio1](https://github.com/anjali-goyal06/InvestmentStrategyBuilder/blob/master/src/readmeData/v3.mp4)
+
+
 ## Tech Stack and Concepts Used
 
 We have built the web application using  
@@ -42,7 +46,7 @@ Following are the concepts involved:
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/anjali-goyal06/InvestmentStrategyBuilder
 ```
 
 Go to the InvestmentStrategyBuilder directory
@@ -113,4 +117,5 @@ The tests for the business logic can be found in the /backend/test folder.It con
 - [@Anjali Goyal](https://github.com/anjali-goyal06)
 - [@Mokshika Mitra](https://github.com/MokshikaMitra)
 - [@Ishita Nigam](https://github.com/ishi-10)
-- 
+- [@Alak Koul](https://github.com/alakKoul)
+- @Aditi Goyal
