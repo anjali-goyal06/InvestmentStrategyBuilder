@@ -1,0 +1,48 @@
+#view-card{
+    cursor: pointer;
+}
+
+.view-table{
+    border-collapse: collapse;
+    font-size: 0.9em;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin:3% auto;
+}
+.view-table thead tr{
+    background-color: #009879;
+    color: #ffffff;
+    text-align: center;
+}
+.view-table th,td {
+    width: 5% ;
+    padding: 1em 1.5em;
+}
+.view-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+.view-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3ef;
+}
+h2, h1{
+    text-align: center;
+}
+.allImplementations{
+    padding:3% 10%;
+}
+.card{
+    border: 2px solid #009879 ;
+    border-radius:5px 5px 15px 15px ;
+}
+.all-imp{
+    margin:3% auto;
+}
+ .card-header{
+    background-color: #b4d6c1;
+    padding-top: 15px;
+    padding-bottom: 15px;
+} 
+.card-body{
+    line-height: 2em;
+    padding: 1% 1%;
+    /* background-color: #b4d6c1; */
+}

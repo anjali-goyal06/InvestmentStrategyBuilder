@@ -1,0 +1,19 @@
+[
+    {
+        "id" : "0",
+        "name" : " "
+    },
+    
+    {
+        "id" : "1",
+        "name" : "Stock"
+    },
+    {
+        "id" : "2",
+        "name" : "Option"
+    },
+    {
+        "id" : "3",
+        "name" : "Future"
+    }
+]

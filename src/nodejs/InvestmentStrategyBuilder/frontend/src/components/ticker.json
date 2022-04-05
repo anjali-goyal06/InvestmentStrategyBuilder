@@ -1,0 +1,27 @@
+[
+    {
+        "id" : "0",
+        "name" : " "
+    },
+    
+    {
+        "id" : "1",
+        "name" : "AAPL"
+    },
+    {
+        "id" : "2",
+        "name" : "TSLA"
+    },
+    {
+        "id" : "3",
+        "name" : "MSFT"
+    },
+    {
+        "id" : "4",
+        "name" : "GOOGL"
+    },
+    {
+        "id" : "5",
+        "name" : "ADBE"
+    }
+]

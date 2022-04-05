@@ -1,0 +1,51 @@
+.mainn{
+    margin: 5% 10% 3% 18%;
+    width:70vw;
+    background-color: whitesmoke;
+    border-radius:0em 1em 1em 0em;
+    padding: 1em 2em;
+    border-color: #009879;
+}
+.text-details{
+    height: fit-content;
+    font-style: sans-sarif;
+    color:black;
+    margin-top: 0.8em;
+    margin-left: 2em;
+}
+.bookmark {
+    margin-top: -1em;
+    width: 6.7em;
+    text-align:center;
+    height: 1.2em;
+    position: relative;
+    background: #009879;
+    font-style: oblique;
+    font-weight: bolder;
+    font-size: 2em;
+  }
+.bookmark:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 0.61em solid whitesmoke;
+    border-top: 0.61em solid transparent;
+    border-bottom: 0.61em solid transparent;
+  }
+  .bookmark:before {
+    content: "";
+    position: absolute;
+    right: -20px;
+    bottom: 0;
+    width: 0;
+    height: 0;
+    border-left: 0.62em solid #009879;
+    border-top: 0.61em solid transparent;
+    border-bottom: 0.61em solid transparent;
+  }
+  .readComp{
+    margin:10% 0%;
+  }
