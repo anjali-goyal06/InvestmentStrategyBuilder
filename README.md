@@ -84,19 +84,6 @@ Start the frontend server
   cd frontend
   npm start
 
-```
-Make a .env file in backend and add the following lines to it
-
-```bash
-  HOST = "database-1.ctvblfobct2i.ap-south-1.rds.amazonaws.com"
-  USER = "admin"
-  PASSWORD = "strategy"
-  PORT = "3306"
-  DATABASE= "InvestmentStrategyBuilder"
-```
-
-
-
 
 
 
