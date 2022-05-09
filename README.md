@@ -83,8 +83,7 @@ Start the frontend server
 ```bash
   cd frontend
   npm start
-
-
+```
 
 
 ## Running Tests
